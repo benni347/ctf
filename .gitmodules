@@ -1,6 +1,6 @@
-[submodule "pico-ctf"]
-	path = pico-ctf
-	url = git@github.com:benni347/pico-ctf.git
 [submodule "hackthebox"]
 	path = hackthebox
 	url = git@github.com:benni347/hackthebox.git
+[submodule "pico-ctf"]
+	path = pico-ctf
+	url = git@github.com:benni347/pico-ctf.git
